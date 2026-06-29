@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:a855f7&height=260&section=header&text=Poursha%20Karimi&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Frontend%20Developer%20%E2%9A%A1%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Explorer&descSize=22&descColor=cbd5e1&descAlignY=68" width="100%" alt="Poursha Karimi - Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:a855f7&height=260&section=header&text=Poursha%20Karimi&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Next.Js%20%E2%9A%A1%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Explorer&descSize=22&descColor=cbd5e1&descAlignY=68" width="100%" alt="Poursha Karimi - Waving Header" />
 </p>
 
 <p align="center">
@@ -14,18 +14,19 @@
   <img src="https://img.shields.io/github/stars/Poursha98?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="Total stars" />
 </p>
 
+<!-- 🏷️ CONTACT & SOCIAL ROW -->
 <p align="center">
   <a href="https://www.linkedin.com/in/poursha-karimi-aa70b6201/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/06b6d4" width="35" height="35" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ItsPoursha" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/06b6d4" width="35" height="35" alt="X/Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X/Twitter" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/poursha.karimi/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/06b6d4" width="35" height="35" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:poursha.karimi@example.com">
-    <img src="https://cdn.simpleicons.org/gmail/06b6d4" width="35" height="35" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email" />
   </a>
 </p>
 
@@ -37,7 +38,7 @@
 
 ### ⚡ About Me
 
-I am a passionate **Frontend Developer** who loves building beautiful, responsive, and interactive user interfaces. Beyond the frontend, I dive deep into Python automation scripting, backend engineering, and AI integrations to construct end-to-end applications.
+I am a passionate **Web Developer** who loves building beautiful, responsive, and interactive user interfaces. Beyond the frontend, I dive deep into Python automation scripting, backend engineering, and AI integrations to construct end-to-end applications.
 
 🚀 **What I do:**
 
@@ -71,7 +72,7 @@ I am a passionate **Frontend Developer** who loves building beautiful, responsiv
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,py,django,postgres,docker,git,vscode,postman&theme=dark&perline=7" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,py,django,postgres,docker,git,vscode,zed,postman&theme=dark&perline=7" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -81,7 +82,7 @@ I am a passionate **Frontend Developer** who loves building beautiful, responsiv
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Poursha98&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Poursha98&theme=cyberneon&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
