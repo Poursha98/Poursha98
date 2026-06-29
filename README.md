@@ -1,37 +1,31 @@
-<!-- ============================================================ -->
-<!-- 🎬 ANIMATED HEADER BANNER — capsule-render with wave gradient -->
-<!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:a855f7&height=260&section=header&text=Poursha%20Karimi&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Frontend%20Developer%20%E2%9A%A1%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Explorer&descSize=20&descColor=cbd5e1" width="100%" alt="Poursha Karimi - Waving Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:a855f7&height=260&section=header&text=Poursha%20Karimi&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Frontend%20Developer%20%E2%9A%A1%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Explorer&descSize=22&descColor=cbd5e1&descAlignY=68" width="100%" alt="Poursha Karimi - Waving Header" />
 </p>
 
-<!-- 🪄 TYPING SVG — rotating headlines -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer+%E2%9A%A1;Python+Automation+Specialist;Django+Backend+Developer;AI+%26+LLM+Explorer;Speaking+English%2C+Persian+%26+German" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Frontend+Developer+%E2%9A%A1;Python+Automation;Django+Backend+Developer;AI+%26+LLM+Explorer;Speaking+English%2C+Persian+%26+German" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 🏷️ PROFESSIONAL METRICS BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Poursha98&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Poursha98?label=FOLLOWERS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Poursha98?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="Total stars" />
 </p>
 
-<!-- 🏷️ CONTACT & SOCIAL ROW -->
 <p align="center">
   <a href="https://www.linkedin.com/in/poursha-karimi-aa70b6201/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.simpleicons.org/linkedin/06b6d4" width="35" height="35" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ItsPoursha" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-  </a>
+    <img src="https://cdn.simpleicons.org/x/06b6d4" width="35" height="35" alt="X/Twitter" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/poursha.karimi/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+    <img src="https://cdn.simpleicons.org/instagram/06b6d4" width="35" height="35" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:poursha.karimi@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/06b6d4" width="35" height="35" alt="Email" />
   </a>
 </p>
 
@@ -43,27 +37,25 @@
 
 ### ⚡ About Me
 
-I am a passionate **Web Developer** who loves building beautiful, responsive, and interactive user interfaces. Beyond the frontend, I dive deep into Python automation scripting, backend engineering, and AI integrations to construct end-to-end applications.
+I am a passionate **Frontend Developer** who loves building beautiful, responsive, and interactive user interfaces. Beyond the frontend, I dive deep into Python automation scripting, backend engineering, and AI integrations to construct end-to-end applications.
 
-```python
-class PourshaKarimi:
-    """Web Developer crafting interactive interfaces & automation systems."""
+🚀 **What I do:**
 
-    role            = "Web Developer"
-    location        = "Iran (Remote)"
-    languages       = ["JavaScript", "TypeScript", "Python"]
-    frontend        = ["Next.js", "React.js", "HTML5", "CSS3"]
-    backend         = ["Django", "Django REST Framework", "Celery", "PostgreSQL"]
-    ai_engineering  = ["LangChain", "OpenAI API"]
-    speaks          = ["Persian (Native)", "English (Fluent)", "German (Beginner)"]
-    philosophy      = "Create beautiful UIs, automate the boring stuff, and build intelligent backends."
+- 🖥️ **Frontend:** Crafting elegant interfaces with Next.js, React.js, HTML5, and CSS3.
+- ⚙️ **Backend:** Architecting robust backends using Python, Django, Django REST Framework, Celery, and PostgreSQL.
+- 🤖 **AI Engineering:** Exploring the future of AI with LangChain and OpenAI APIs.
 
-    def get_goal(self) -> str:
-        return "Combine front-end elegance with robust back-end AI automation."
+🌍 **Languages I Speak:**
 
-me = PourshaKarimi()
-print(me.get_goal())
-```
+- 🇮🇷 Persian (Native)
+- 🇬🇧 English (Fluent)
+- 🇩🇪 German (Beginner)
+
+💡 **My Philosophy:** Combine front-end elegance with robust back-end AI automation to create systems that truly feel alive.
+
+<p align="center">
+  <a href="https://github.com/Poursha98"><img src="https://github-widgetbox.vercel.app/api/profile?username=Poursha98&data=followers,repositories,stars,commits&theme=tokyonight" alt="WidgetBox" /></a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3JHteJIwMdbDYy/giphy.gif" width="480" alt="Coding Neon Animation" />
@@ -85,12 +77,16 @@ print(me.get_goal())
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies & Contributions
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Poursha98&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Poursha98&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdullahBakir97/cortex/main/examples/rendered/extreme/motto-typing.svg" alt="Animated Ticker" />
 </p>
 
 ---
