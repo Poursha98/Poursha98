@@ -72,22 +72,24 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,py,django,postgres,docker,git,vscode,zed,postman&theme=dark&perline=7" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,py,django,postgres,docker,git,vscode,postman&theme=dark&perline=7" alt="My Tech Stack" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies & Contributions
+<!-- ### 🏆 GitHub Trophies & Contributions -->
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Poursha98&theme=cyberneon&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
+-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbdullahBakir97/cortex/main/examples/rendered/extreme/motto-typing.svg" alt="Animated Ticker" />
+  <img src="./assets/motto-typing.svg" alt="Animated Ticker" />
 </p>
 
 ---
