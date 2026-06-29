@@ -19,13 +19,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ItsPoursha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="40" alt="X/Twitter" />
+    <img src="https://skillicons.dev/icons?i=x&theme=dark" height="40" alt="X" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/poursha.karimi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:poursha.karimi@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email" />
+  <a href="mailto:poursha.karimi@outlook.com">
+    <img src="https://skillicons.dev/icons?i=outlook&theme=dark" height="40" alt="Email" />
   </a>
 </p>
 
@@ -34,6 +34,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="./assets/synthwave-banner.svg" width="100%" alt="Synthwave Banner" />
+</p>
 
 ### ⚡ About Me
 
@@ -54,11 +58,19 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
 💡 **My Philosophy:** Combine front-end elegance with robust back-end AI automation to create systems that truly feel alive.
 
 <p align="center">
+  <img src="./assets/brain-anatomical.svg" width="100%" alt="Brain Anatomical" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Poursha98"><img src="https://github-widgetbox.vercel.app/api/profile?username=Poursha98&data=followers,repositories,stars,commits&theme=tokyonight" alt="WidgetBox" /></a>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3JHteJIwMdbDYy/giphy.gif" width="480" alt="Coding Neon Animation" />
+</p>
+
+<p align="center">
+  <img src="./assets/particle-cloud.svg" width="100%" alt="Particle Cloud" />
 </p>
 
 <p align="center">
@@ -73,6 +85,14 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,py,django,postgres,docker,git,vscode,postman&theme=dark&perline=7" alt="My Tech Stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/skill-globe.svg" width="100%" alt="Skill Globe" />
+</p>
+
+<p align="center">
+  <img src="./assets/code-dna.svg" width="100%" alt="Code DNA" />
 </p>
 
 ---
@@ -93,7 +113,15 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
 
 ---
 
+<p align="center">
+  <img src="./assets/code-roadmap.svg" width="100%" alt="Code Roadmap" />
+</p>
+
 ### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="./assets/stat-cubes.svg" width="100%" alt="Stat Cubes" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poursha98&bg_color=0f172a&color=06b6d4&line=a855f7&point=06b6d4&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -112,4 +140,8 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+<p align="center">
+  <img src="./assets/footer-banner.svg" width="100%" alt="Footer Banner" />
 </p>
