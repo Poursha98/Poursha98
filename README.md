@@ -19,13 +19,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ItsPoursha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x&theme=dark" height="40" alt="X" />
+    <img src="assets/x-icon.svg" height="40" alt="X" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/poursha.karimi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="Instagram" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:poursha.karimi@outlook.com">
-    <img src="https://skillicons.dev/icons?i=outlook&theme=dark" height="40" alt="Email" />
+    <img src="assets/outlook-icon.svg" height="40" alt="Email" />
   </a>
 </p>
 
@@ -52,10 +52,6 @@ I am a passionate **Web Developer** who loves building beautiful, responsive, an
 - 🇩🇪 German (Beginner)
 
 💡 **My Philosophy:** Combine front-end elegance with robust back-end AI automation to create systems that truly feel alive.
-
-<p align="center">
-  <a href="https://github.com/Poursha98"><img src="https://github-widgetbox.vercel.app/api/profile?username=Poursha98&data=followers,repositories,stars,commits&theme=tokyonight" alt="WidgetBox" /></a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3JHteJIwMdbDYy/giphy.gif" width="480" alt="Coding Neon Animation" />
