@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/stars/Poursha98?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" alt="Total stars" />
 </p>
 
-<!-- 🏷️ CONTACT & SOCIAL ROW -->
 <p align="center">
   <a href="https://www.linkedin.com/in/poursha-karimi-aa70b6201/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn" />
